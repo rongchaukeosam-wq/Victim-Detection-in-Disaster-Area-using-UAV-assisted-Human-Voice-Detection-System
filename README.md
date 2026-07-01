@@ -1,6 +1,5 @@
 # Victim-Detection-in-Disaster-Area-using-UAV-assisted-Human-Voice-Detection-System
-# Graduation thesis: UAV-assisted Human Voice detection system for disasters areas (Landside, earthquake, building collapsed..)using MATLAB, VGGish model, and Microphone mounted on UAV.
-Abstract: After natural disasters such, survivors are frequently hided by debris and limited
+Abstract: After natural disasters such landside, earthquake, building collapsed..., survivors are frequently hided by debris and limited
 visibility, leading to conventional visual sensors inadequate. This thesis develop an
 advanced acoustic sensing system integrated into an UAV platform, designed for real-time
 human voice detection in high-noise environments. The hardware architecture uses an
