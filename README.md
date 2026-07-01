@@ -10,10 +10,7 @@ processing Wiener filtering is applied for adaptive signal enhancement. The proc
 acoustic data is classified using a VGGish Convolutional Neural Network (CNN) to
 identify human voice signals. System operations, including real-time signal visualization
 is centralized via a custom MATLAB Graphical User Interface (GUI). Results illustrates
-that the application of Wiener filtering effectively improves the Signal-to-Noise Ratio
-(SNR), allowing the CNN to maintain high detection accuracy despite the operational noise
-of the UAV. This research aims to contribute to the enhancement of multi-modal sensing
-capabilities in modern Search and Rescue (SAR) operations.
+that the application of Wiener filtering effectively remove UAV noise, allowing the CNN to maintain high detection with validation accuracy of 84.88% and a critical recall rate of 99.2% for human voice detection, operating entirely in real-time with minimal hardware latency.
 Keywords: Unmanned Aerial Vehicles (UAV), Acoustic Signal Processing, Wiener
-Filtering, Convolutional Neural Networks, Search and Rescue.
-# Due to academic integrity, and intellectual property protection of this graduation thesis, the core MATLAB source code, trained VGGish weights, and custom disaster-ambient dataset are hosted in a  private repository. 
+Filtering, Convolutional Neural Networks, Band Pass Filter.
+# Due to academic integrity, and intellectual property protection of this graduation thesis, the core MATLAB source code, trained VGGish weights, and custom dataset are hosted in a  private repository. 
